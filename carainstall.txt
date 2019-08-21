@@ -1,4 +1,11 @@
-# Cyber
+ figlet "HACKER" | lolcat
+
+echo '+-------------------------------+' | lolcat
+echo '| author:Mr.G4R1N               |' | lolcat
+echo '| FB :G4R1N SC4T3R              |' | lolcat
+echo '| YT:Hacker Elite ID            |' | lolcat
+echo '| Github:github.com/garinscater |' | lolcat
+echo '+-------------------------------+' | lolcat
 Pkg install nano
 Cd ..
 Cd usr/etc
