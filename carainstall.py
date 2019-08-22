@@ -1,12 +1,12 @@
 
 
-echo '+-------------------------------+' | lolcat 
-echo '| author:Mr.G4R1N               |' | lolcat
-echo '| YT:Hacker Elite ID            |' | lolcat
-echo '| Github:github.com/garinscater |' | lolcat
-echo '+-------------------------------+' | lolcat
-echo 'Pkg install nano' | lolcat
-echo 'Cd ..' | lolcat
-echo 'Cd usr/etc' | lolcat
-Nano bash.bashrc | lolcat
-Ganti PS1='nama' | lolcat
+Print '+-------------------------------+' | lolcat 
+Print '| author:Mr.G4R1N               |' | lolcat
+Print '| YT:Hacker Elite ID            |' | lolcat
+Print '| Github:github.com/garinscater |' | lolcat
+Print  '+-------------------------------+' | lolcat
+Print 'Pkg install nano' | lolcat
+Print 'Cd ..' | lolcat
+Print 'Cd usr/etc' | lolcat
+Print  Nano bash.bashrc | lolcat
+Print Ganti PS1='nama' | lolcat
